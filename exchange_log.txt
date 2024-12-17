@@ -1,0 +1,3 @@
+2024-12-17 00:09:20 | katfaucet sent 2 DUCO to DuckyPolice for ELAP | Status: Failed: ELAP transfer error
+2024-12-17 00:13:00 | katfaucet sent 2 DUCO to DuckyPolice for ELAP | Status: Failed: ELAP transfer error
+2024-12-17 00:15:50 | katfaucet sent 2 DUCO to DuckyPolice for ELAP | Status: Success
